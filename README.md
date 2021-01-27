@@ -1,4 +1,4 @@
-### Hi there 👋
+![About Sam](assets/img/cv-2021-v2-slw.jpg)
 
 <!--
 **Samwakelam/Samwakelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
